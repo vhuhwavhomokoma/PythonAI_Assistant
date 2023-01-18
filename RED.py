@@ -61,7 +61,7 @@ while (True):
         calender.AI_add_event(Red)
     if(command=="list"):
         calender.Ai_list_events(Red)
-    if(command=="tell me the weather"):
+    if(command in ["tell me the weather","what's the weather like"]):
         Red.say(weather.forecast())
 
 Red.say("Goodbye, shutting down")
