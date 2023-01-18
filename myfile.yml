@@ -1,0 +1,6 @@
+- begin: 2022-12-25 09:00:00+00:00
+  description: Christmas Day
+  name: Christmas
+- begin: 2023-01-12 05:00:00+00:00
+  description: work activities
+  name: normal day
